@@ -4,6 +4,7 @@ Current SHA256 Hash: <strong>ebccc54162f0092cc5ca1c76e084d6f893be19963edeafa6800
 <br>
 <br>
 <strong>Follow and check changes! Click on 'commits'</strong> <br>
+<br>
 ![Screenshot](commits.png)
 <br>
 <br />
