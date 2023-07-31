@@ -1,5 +1,5 @@
 # 🔒 Verify Tor.Watch index.html <br>
-Current SHA256 Hash: <strong>ebccc54162f0092cc5ca1c76e084d6f893be19963edeafa6800fd51885fea696</strong> <br>
+Current Body SHA-256 Hash: <strong>ebccc54162f0092cc5ca1c76e084d6f893be19963edeafa6800fd51885fea696</strong> <br>
 <strong>Verify the current Hash 'Body SHA-256' 👉 </strong> **[Virustotal](https://www.virustotal.com/gui/url/07d46003ab6804129ea73c3106102f6ec9b5bccf86aa35223c913e11eaacad20/details)**
 <br>
 <br>
@@ -7,6 +7,10 @@ Current SHA256 Hash: <strong>ebccc54162f0092cc5ca1c76e084d6f893be19963edeafa6800
 <br>
 ![Screenshot](commits.png)
 <br>
+<br>
+<strong>Check the hash of the home page (index.html) uploaded to github! 👉 </strong> **[Virustotal](https://www.virustotal.com/gui/url/07d46003ab6804129ea73c3106102f6ec9b5bccf86aa35223c913e11eaacad20/details)**
+<br>
+<strong>⚠️Both hashes must match⚠️</strong><br>
 <br />
 ```bash
 -----BEGIN PGP SIGNED MESSAGE-----
