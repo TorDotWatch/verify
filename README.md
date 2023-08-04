@@ -1,5 +1,5 @@
 # 🔒 Verify Tor.Watch index.html <br>
-Current Body SHA-256 Hash: <strong>fff23bfc45c1d945693cc085a7281372f61bf1c7342ba577ad7229a49b5dc82b</strong> <br>
+Current Body SHA-256 Hash: <strong>1db8029295b7fdf00d9cc3a6b9bb7705247707a5c917105631a027e10d8b5e00</strong> <br>
 <strong>Verify the current Hash 'Body SHA-256' 👉 </strong> **[Virustotal](https://www.virustotal.com/gui/url/07d46003ab6804129ea73c3106102f6ec9b5bccf86aa35223c913e11eaacad20/details)**
 <br>
 <br>
@@ -16,28 +16,28 @@ Current Body SHA-256 Hash: <strong>fff23bfc45c1d945693cc085a7281372f61bf1c7342ba
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-fff23bfc45c1d945693cc085a7281372f61bf1c7342ba577ad7229a49b5dc82b
+1db8029295b7fdf00d9cc3a6b9bb7705247707a5c917105631a027e10d8b5e00
 
 04 AUG 2023
 
 
 -----BEGIN PGP SIGNATURE-----
 
-iQKTBAEBCgB9FiEEB1GiDTFIxgyrRqkzvnuv240rTgoFAmTMw9dfFIAAAAAALgAo
+iQKTBAEBCgB9FiEEB1GiDTFIxgyrRqkzvnuv240rTgoFAmTNGM9fFIAAAAAALgAo
 aXNzdWVyLWZwckBub3RhdGlvbnMub3BlbnBncC5maWZ0aGhvcnNlbWFuLm5ldDA3
 NTFBMjBEMzE0OEM2MENBQjQ2QTkzM0JFN0JBRkRCOEQyQjRFMEEACgkQvnuv240r
-Tgq8HQ//TvGnjfoColWcMy1dpFxefMdvpWkorv0XZivD2mSN6kHi6vINEsmo9IW6
-38RQgl3/Xqt4Xm4059mxwJo8OZoOSqtL/dwRyoj6DvjJMj+3rdpdVPt8p0hSq+pH
-zGurmMx68emuiCCRYosPhR/syEyX5WgFc8cyxtK/5CqI0jvJxirB6a80TNIkYESS
-MpQfxblaYncrEj+/q5GTUcgj4hbHE8d1Ssb3YCZnOaIhv1pVfeqntTe2B2Q3lf7W
-iEbfXMd9g/KntJu/rTZ1fEIFOZ8nrcUAC2GwvoOpWGHwnevfbAjGSjMi3i/SNY/k
-wiaiKsEHvgaI2jhSaudsG0LA71OY6FnUMQTBww7vwGMmioNf3rvGURRUZCBUoCQv
-VX64twdXTYYlwSsb6aL4E1BBqhKkFQ7+fmd2MGwMdb2e3HsYQ4DmaNiZM6pk2X8/
-N6MB3CPffgJUfzCBEd7jdsXeZ3UfWMCXbnjNKx2x5S+9WILYnluVcK+UmzndOLSP
-zD1BUk32DE81LUdEEiDsHbT2EPDK5v5+4wWQyJS79fEFx3qYpRdIpc1ppKg5LAoN
-MrOpCOLEEBrro2tUzon4GJzXAmxM7F2ke6HNvwYpkcb0sAxkAgXSG/4Ji6h/ge78
-iNQWFqZdZ2jW+cmWTrQTDPgpM8USqDdtlW7zxP9rXHM5V2K93dg=
-=zk9S
+TgoOjw//UqyMNUaK7sBuDuRax1JgsVqpLX2nPAPofqom0EOh0MCYYPmphMKWzY/6
+VLRVFG5Dl8Za+W00K1ote8koCA4JFEv8eo5Qa/G1DIAZqmQBpLGUtEbpSd+IZe/U
+r2++z8WGdjbLHI54J7E/rEkhbyySY2Y99teXcgOzGKUBuZQki9Vd7wvJ4qhuT9zW
+ajAMigecx5Uikzybv6gM2kwGj7cXaQWjfH/m3/CYFjSjpC8vhV+TUBGRTLAz2xar
+c2XDF/J0Tcx2jL5mY697p0cEM6oKKjsVI1XoxH6G3nKpGQooxLHcHBI14FHlggL4
+LAzACkadhxN+1RuQmD/+qjJ5+7PR4Uf+cGfAqYQ15GOvJCB+HsVV/4zN0MIMVhq3
+vrlYRbhXpcBrIVcW+1LSnzcEp2r4Sf34OfcO1LaXGiUdnrznSZENqzS6E5xHEEQJ
+P1phNKoWUvZqZuZZ+k4pl/1lq9BjEfonnOvpe7wFSk+6dpd2lQMcS5n+qeZ57cLs
+Ez2yS8GtJ4Azlfqfplci1tNak0e5fDx8PUTFcScGrT+VWDJlktClOeJhgGyTxfCl
+G6xByrol8NsHfKAXewSFOsBe8QOn21Rd9E04Q1ihvXUwCkhcekIniPSY3og1xwQJ
+Kx3X5nDwUUFV5nytcRSsfCtjPJHhjGqdi/flhotsZ/M+EkjIMqw=
+=vnyj
 -----END PGP SIGNATURE-----
 
 
